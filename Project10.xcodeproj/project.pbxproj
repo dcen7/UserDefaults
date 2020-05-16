@@ -14,6 +14,7 @@
 		FB543ED1246EEEC800AF7ECA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB543ED0246EEEC800AF7ECA /* Assets.xcassets */; };
 		FB543ED4246EEEC800AF7ECA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB543ED2246EEEC800AF7ECA /* LaunchScreen.storyboard */; };
 		FB543EDC246EF25700AF7ECA /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB543EDB246EF25700AF7ECA /* PersonCell.swift */; };
+		FB543EDE246F6D0A00AF7ECA /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB543EDD246F6D0A00AF7ECA /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FB543ED3246EEEC800AF7ECA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB543ED5246EEEC800AF7ECA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB543EDB246EF25700AF7ECA /* PersonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
+		FB543EDD246F6D0A00AF7ECA /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				FB543EC9246EEEC300AF7ECA /* SceneDelegate.swift */,
 				FB543ECB246EEEC300AF7ECA /* ViewController.swift */,
 				FB543ECD246EEEC300AF7ECA /* Main.storyboard */,
+				FB543EDD246F6D0A00AF7ECA /* Person.swift */,
 				FB543EDB246EF25700AF7ECA /* PersonCell.swift */,
 				FB543ED0246EEEC800AF7ECA /* Assets.xcassets */,
 				FB543ED2246EEEC800AF7ECA /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB543EDE246F6D0A00AF7ECA /* Person.swift in Sources */,
 				FB543ECC246EEEC300AF7ECA /* ViewController.swift in Sources */,
 				FB543EC8246EEEC300AF7ECA /* AppDelegate.swift in Sources */,
 				FB543EDC246EF25700AF7ECA /* PersonCell.swift in Sources */,
